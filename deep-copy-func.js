@@ -1,7 +1,7 @@
 /* DEEP COPY FUNCTION */
 
 /* initial object */
-let obj = { /*properies*/ }
+let obj = { /*properties*/ }
 
 /* target object */
 let newObj = {}
